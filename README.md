@@ -160,6 +160,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [rocker](https://github.com/grammarly/rocker) - Extended Dockerfile builder. Supports multiple FROMs, MOUNTS, templates, etc. by [grammarly](https://github.com/grammarly).
 - [Stacker](https://github.com/stacker/stacker-cli) - Docker Compose Templates. Stacker provides an abstraction layer over Docker Compose and a better DX (developer experience).
 - [Zodiac](https://github.com/CenturyLinkLabs/zodiac) :skull: - A lightweight tool for easy deployment and rollback of dockerized applications. By [@CenturyLinkLabs][CenturyLinkLabs]
+- [Smalte](https://github.com/roquie/smalte) – Is a dead simple and lightweight template engine. Specially designed for configure services (or application) before start in Docker. By [@roquie][https://github.com/roquie]
 
 ### Deployment and Infrastructure
 
